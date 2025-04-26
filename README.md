@@ -1,5 +1,4 @@
-🔹 Projeto para praticar HTML, CSS e JS criando uma página de biblioteca com dados da Open Library.  
-✨ Ideal para treinar responsividade, manipulação do DOM e trabalhar com dados JSON.
+✨ Projeto para praticar HTML, CSS e JS criando uma página de biblioteca com dados da Open Library. Ideal para treinar responsividade, manipulação do DOM e trabalhar com dados JSON.
 
 ---
 
