@@ -1,0 +1,484 @@
+[
+  {
+    "openlibrary_id": "OL26449397M",
+    "titulo": "1984",
+    "autores": [
+      "George Orwell"
+    ],
+    "ano": 1949,
+    "generos": [
+      "Ficção",
+      "Ficção científica"
+    ],
+    "paginas": {
+      "total": 416,
+      "lidas": 120
+    },
+    "avaliacao": {
+      "nota": 4.3,
+      "votos": 324
+    }
+  },
+  {
+    "openlibrary_id": "OL3173729M",
+    "titulo": "Dune",
+    "autores": [
+      "Frank Herbert"
+    ],
+    "ano": 1965,
+    "generos": [
+      "Romance",
+      "Ficção científica"
+    ],
+    "paginas": {
+      "total": 517,
+      "lidas": 400
+    },
+    "avaliacao": {
+      "nota": 4.3,
+      "votos": 369
+    }
+  },
+  {
+    "openlibrary_id": "OL9158212M",
+    "titulo": "O Senhor dos Anéis",
+    "autores": [
+      "J.R.R. Tolkien"
+    ],
+    "ano": 1954,
+    "generos": [
+      "Fantasia",
+      "Aventura"
+    ],
+    "paginas": {
+      "total": 870,
+      "lidas": 510
+    },
+    "avaliacao": {
+      "nota": 4.5,
+      "votos": 87
+    }
+  },
+  {
+    "openlibrary_id": "OL9158053M",
+    "titulo": "Harry Potter e a Ordem da Fênix",
+    "autores": [
+      "J. K. Rowling"
+    ],
+    "ano": 2003,
+    "generos": [
+      "Fantasia",
+      "Ficção",
+      "Infantil"
+    ],
+    "paginas": {
+      "total": 750,
+      "lidas": 433
+    },
+    "avaliacao": {
+      "nota": 4.3,
+      "votos": 267
+    }
+  },
+  {
+    "openlibrary_id": "OL49810020M",
+    "titulo": "Harry Potter e a Câmara Secreta",
+    "autores": [
+      "J. K. Rowling"
+    ],
+    "ano": 1998,
+    "generos": [
+      "Fantasia",
+      "Ficção",
+      "Infantil"
+    ],
+    "paginas": {
+      "total": 252,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.2,
+      "votos": 429
+    }
+  },
+  {
+    "openlibrary_id": "OL26397334M",
+    "titulo": "Orgulho e Preconceito",
+    "autores": [
+      "Jane Austen"
+    ],
+    "ano": 1813,
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "paginas": {
+      "total": 384,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.1,
+      "votos": 303
+    }
+  },
+  {
+    "openlibrary_id": "OL27312880M",
+    "titulo": "Coraline e a Porta Secreta",
+    "autores": [
+      "Neil Gaiman"
+    ],
+    "ano": 2002,
+    "generos": [
+      "Fantasia",
+      "Horror"
+    ],
+    "paginas": {
+      "total": 163,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 179
+    }
+  },
+  {
+    "openlibrary_id": "OL9164546M",
+    "titulo": "O Código Da Vinci",
+    "autores": [
+      "Dan Brown"
+    ],
+    "ano": 2003,
+    "generos": [
+      "Suspense",
+      "Mistério"
+    ],
+    "paginas": {
+      "total": 428,
+      "lidas": 210
+    },
+    "avaliacao": {
+      "nota": 3.9,
+      "votos": 152
+    }
+  },
+  {
+    "openlibrary_id": "OL24375637M",
+    "titulo": "O pequeno príncipe",
+    "autores": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "ano": 1943,
+    "generos": [
+      "Novela",
+      "Infantil"
+    ],
+    "paginas": {
+      "total": 93,
+      "lidas": 93
+    },
+    "avaliacao": {
+      "nota": 4.3,
+      "votos": 163
+    }
+  },
+  {
+    "openlibrary_id": "OL38229412M",
+    "titulo": "O sol é para todos",
+    "autores": [
+      "Harper Lee"
+    ],
+    "ano": 1960,
+    "generos": [
+      "Romance",
+      "Ficção"
+    ],
+    "paginas": {
+      "total": 296,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.1,
+      "votos": 195
+    }
+  },
+  {
+    "openlibrary_id": "OL25226226M",
+    "titulo": "A guerra dos tronos",
+    "autores": [
+      "George R. R. Martin"
+    ],
+    "ano": 1996,
+    "generos": [
+      "Fantasia",
+      "Romance"
+    ],
+    "paginas": {
+      "total": 591,
+      "lidas": 320
+    },
+    "avaliacao": {
+      "nota": 4.2,
+      "votos": 657
+    }
+  },
+  {
+    "openlibrary_id": "OL35669258M",
+    "titulo": "O Alquimista",
+    "autores": [
+      "Paulo Coelho"
+    ],
+    "ano": 1988,
+    "generos": [
+      "Autoajuda",
+      "Ficção"
+    ],
+    "paginas": {
+      "total": 208,
+      "lidas": 208
+    },
+    "avaliacao": {
+      "nota": 3.9,
+      "votos": 307
+    }
+  },
+  {
+    "openlibrary_id": "OL27102096M",
+    "titulo": "Good Omens",
+    "autores": [
+      "Terry Pratchett",
+      "Neil Gaiman"
+    ],
+    "ano": 1990,
+    "generos": [
+      "Fantasia",
+      "Humor",
+      "Apocalipse"
+    ],
+    "paginas": {
+      "total": 608,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.5,
+      "votos": 77
+    }
+  },
+  {
+    "openlibrary_id": "OL46536040M",
+    "titulo": "As Cronicas de Narnia",
+    "autores": [
+      "C.S. Lewis"
+    ],
+    "ano": 1955,
+    "generos": [
+      "Ficção",
+      "Distopia"
+    ],
+    "paginas": {
+      "total": 568,
+      "lidas": 380
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 95
+    }
+  },
+  {
+    "openlibrary_id": "OL7783533M",
+    "titulo": "Calculus: Early Transcendentals",
+    "autores": [
+      "James Stewart"
+    ],
+    "ano": 1991,
+    "generos": [
+      "Matemática",
+      "Cálculo"
+    ],
+    "paginas": {
+      "total": 970,
+      "lidas": 310
+    },
+    "avaliacao": {
+      "nota": 5.0,
+      "votos": 1
+    }
+  },
+  {
+    "openlibrary_id": "OL27918581M",
+    "titulo": "Hábitos Atômicos",
+    "autores": [
+      "James Clear"
+    ],
+    "ano": 2016,
+    "generos": [
+      "Autoajuda"
+    ],
+    "paginas": {
+      "total": 320,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 1044
+    }
+  },
+  {
+    "openlibrary_id": "OL46874697M",
+    "titulo": "The Hunger Games",
+    "autores": [
+      "Suzanne Collins"
+    ],
+    "ano": 2008,
+    "generos": [
+      "Aventura",
+      "Ficção científica"
+    ],
+    "paginas": {
+      "total": 458,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.1,
+      "votos": 446
+    }
+  },
+  {
+    "openlibrary_id": "OL57728262M",
+    "titulo": "E tudo o Vento Levou",
+    "autores": [
+      "Margaret Mitchell"
+    ],
+    "ano": 1905,
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "paginas": {
+      "total": 772,
+      "lidas": 200
+    },
+    "avaliacao": {
+      "nota": 3.5,
+      "votos": 41
+    }
+  },
+  {
+    "openlibrary_id": "OL23109860M",
+    "titulo": "O Grande Gatsby",
+    "autores": [
+      "F. Scott Fitzgerald"
+    ],
+    "ano": 1925,
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "paginas": {
+      "total": 180,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 162
+    }
+  },
+  {
+    "openlibrary_id": "OL37798559M",
+    "titulo": "All quiet on the western front",
+    "autores": [
+      "Erich Maria Remarque"
+    ],
+    "ano": 1928,
+    "generos": [
+      "Romance",
+      "Novela de guerra"
+    ],
+    "paginas": {
+      "total": 319,
+      "lidas": 280
+    },
+    "avaliacao": {
+      "nota": 4.2,
+      "votos": 75
+    }
+  },
+  {
+    "openlibrary_id": "OL47655826M",
+    "titulo": "O Conde de Monte Cristo",
+    "autores": [
+      "Alexandre Dumas"
+    ],
+    "ano": 1830,
+    "generos": [
+      "Romance",
+      "Ficção histórica"
+    ],
+    "paginas": {
+      "total": 671,
+      "lidas": 190
+    },
+    "avaliacao": {
+      "nota": 4.3,
+      "votos": 171
+    }
+  },
+  {
+    "openlibrary_id": "OL32116569M",
+    "titulo": "Martin Eden",
+    "autores": [
+      "Jack London"
+    ],
+    "ano": 1908,
+    "generos": [
+      "Romance",
+      "Ficção"
+    ],
+    "paginas": {
+      "total": 411,
+      "lidas": 0
+    },
+    "avaliacao": {
+      "nota": 3.8,
+      "votos": 41
+    }
+  },
+  {
+    "openlibrary_id": "OL9155429M",
+    "titulo": "Cem Anos de Solidão",
+    "autores": [
+      "Gabriel Garcia Marquez"
+    ],
+    "ano": 1967,
+    "generos": [
+      "Romance"
+    ],
+    "paginas": {
+      "total": 446,
+      "lidas": 340
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 70
+    }
+  },
+  {
+    "openlibrary_id": "OL47407659M",
+    "titulo": "Cinquante nuances de Grey",
+    "autores": [
+      "E. L. James"
+    ],
+    "ano": 2000,
+    "generos": [
+      "Romance",
+      "Ficção"
+    ],
+    "paginas": {
+      "total": 672,
+      "lidas": 672
+    },
+    "avaliacao": {
+      "nota": 4.0,
+      "votos": 270
+    }
+  }
+]
